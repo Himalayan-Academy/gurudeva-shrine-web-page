@@ -17,14 +17,16 @@
 
 </script>
 
-<div style="background-image: url({current_gurudeva_portrait})" class="background" >
+<!-- <div style="background-image: url({current_gurudeva_portrait})" class="background" >
+</div> -->
+<img src={current_gurudeva_portrait} alt="gurudeva"/>
 
-</div>
 <style>
-    .background{
+    img {
         /* background-color: blue; */
         background-size: cover;
         height:100vh;
+        width: 100vw;
         margin: 0;
     }
 </style>

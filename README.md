@@ -1,0 +1,2 @@
+# gurudeva-shrine-web-page
+ 

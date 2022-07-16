@@ -13,7 +13,7 @@
         } else {
             image_number+=1;
         }
-    }, 2000)
+    }, 5000)
 
 </script>
 

@@ -1,5 +1,5 @@
 <script>
-    let current_gurudeva_portrait = "/gurudeva2.jpg"
+    let current_gurudeva_portrait = "/gurudeva.jpg"
 </script>
 
 <div style="background-image: url({current_gurudeva_portrait})" class="background" >
